@@ -24,3 +24,14 @@
 
 | Error | Attempt | Resolution |
 | --- | --- | --- |
+
+## Development Phases
+
+| Phase | Status | Notes |
+| --- | --- | --- |
+| 0. Minimum app skeleton | complete | FastAPI backend skeleton, React/Vite frontend skeleton, env examples, README, dev scripts |
+
+## Development Validation Notes
+
+- Python syntax validated in memory because bundled Python could not create `__pycache__` directories in this workspace.
+- Backend and frontend dependency installation could not be completed because network escalation approval timed out.
